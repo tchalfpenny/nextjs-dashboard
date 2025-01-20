@@ -1,5 +1,11 @@
-## Next.js App Router Course - Starter
+# Next.js Dashboard Application
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Followed [Learn Next.js](https://nextjs.org/learn) for an introduction to Next.js.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Utilized Next.js, Vercel Hosting, Neon Serverless Postgres, and NextAuth.js to build a fullstack web application
+
+Implemented static and dynamic rendering, streaming, partial prerendering, search, pagination, error handling, and assigned metadata.
+
+Improved accessibility by requiring alt tags on images with ESLint rules.
+
+Gained further experience with React, TypeScript, JavaScript, and Tailwind CSS.
